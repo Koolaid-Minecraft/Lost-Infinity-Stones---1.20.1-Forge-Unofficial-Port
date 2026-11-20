@@ -9,7 +9,7 @@
 
 **An unofficial community port of the iconic *Lost Infinity Stones* mod (originally created for 1.12.2 InsaneCraft) updated to Minecraft 1.20.1 Forge.**
 
-[📥 Download Latest Release](../../releases/latest) • [🐛 Report a Bug](../../issues) • [🛠️ Build from Source](#-building-from-source)
+[📥 Download Latest Release](../../releases/latest) • [🐛 Report a Bug](../../issues) • [🛠️ Build from Source](#--building-from-source)
 
 </div>
 
